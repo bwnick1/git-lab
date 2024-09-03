@@ -1,1 +1,3 @@
-CS2400 Section 100
+Brenden Nickerson
+bwnick22@gmail.com
+Done
